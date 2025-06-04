@@ -1,4 +1,4 @@
 # Biodegradable vs Non-Biodegradable Image Classifier
 
-This project is a binary image classification model that classifies waste materials into **biodegradable** or **non-biodegradable** categories using deep learning. It aims to assist in automated waste sorting and environmental sustainability initiatives.
+This project aims to automate the classification of waste into biodegradable and non-biodegradable categories using deep learning models. Manual waste sorting is inefficient and error-prone, especially in developing countries. Automating this process can improve recycling, reduce landfill usage, and promote sustainable practices.
 
